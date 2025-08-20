@@ -1,4 +1,3 @@
-<img width="606" height="569" alt="chart" src="https://github.com/user-attachments/assets/9d26b1d2-c763-47a8-9a85-71f782b24670" />
 # Customer Engagement Correlation Heatmap
 
 This repository contains a professional **Seaborn heatmap** visualization analyzing relationships between different customer engagement metrics. The chart is designed to provide actionable business insights for executive decision-making and strategic planning.
@@ -38,7 +37,7 @@ All metrics are numeric and suitable for correlation analysis.
 - **Dimensions:** 512x512 pixels  
 - **File:** `chart.png`  
 
-![Customer Engagement Heatmap]<img width="606" height="569" alt="chart" src="https://github.com/user-attachments/assets/9d26b1d2-c763-47a8-9a85-71f782b24670" />)
+![Customer Engagement Heatmap]( <img width="512" height="512" alt="chart" src="https://github.com/user-attachments/assets/06a7571e-fd6e-4d47-a339-fdba05882052" />)
 
 
 ---
