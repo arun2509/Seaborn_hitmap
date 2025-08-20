@@ -31,13 +31,14 @@ All metrics are numeric and suitable for correlation analysis.
 ---
 
 ## Visualization
-
+- **File:** `chart.py`
 - **Chart Type:** Heatmap  
 - **Tool:** Python Seaborn (`sns.heatmap`)  
 - **Dimensions:** 512x512 pixels  
 - **File:** `chart.png`  
 
 ![Customer Engagement Heatmap](chart.png)
+
 
 ---
 
