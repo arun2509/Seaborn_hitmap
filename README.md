@@ -38,7 +38,7 @@ All metrics are numeric and suitable for correlation analysis.
 - **File:** `chart.png`  
 
 ![Customer Engagement Heatmap]( <img width="512" height="512" alt="chart" src="https://github.com/user-attachments/assets/06a7571e-fd6e-4d47-a339-fdba05882052" />)
-
+**img**: chart.png
 
 ---
 
